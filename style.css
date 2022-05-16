@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+}
+p {
+    color: brown;
+}
+#tittle{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.memes{
+    margin-left: auto;
+    margin-right: 150px;
+    font-size: 20px;
+}
+
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
